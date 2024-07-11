@@ -260,6 +260,7 @@ TAPEX  | 1500 | Text2SQL | SQL, Table | Answer | Synthetic | https://github.com/
 Spider  | 1020 | Text2SQL | Table, Question | SQL | Human annotation | https://drive.usercontent.google.com/download?id=1iRDVHLr4mX2wQKSgA9J8Pire73Jahh0m&export=download&authuser=0 | 
 WIKISQL | 24241 | Text2SQL | Table, Question | SQL, Answer | Human Annotated | https://github.com/salesforce/WikiSQL                                                                         |
 BIRD | 12751 | Text2SQL | Table, Question | SQL | Human Annotated | https://bird-bench.github.io/                                                                                 |
+EHRSQL | 17 | Text2SQL | Table, Question | SQL | Human Annotated | https://sites.google.com/view/ehrsql-2024     
 
 ## Survey
 **[A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions](https://arxiv.org/abs/2208.13629)**
